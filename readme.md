@@ -44,7 +44,11 @@ Daniel Shiffman live code in P5.JS on Youtube link:
 
 [Make a landscape using only primitive shapes](Primitives_Landscape)
 
-Genuary 7 - [Use software that is not intended to create art or images](Non_Art_Software)
+## Genuary 7
+
+![fish](Non_Art_Software/fish.png)
+
+[Use software that is not intended to create art or images](Non_Art_Software)
 
 Genuary 8 - [Draw one million of something](One_million_Things)
 
