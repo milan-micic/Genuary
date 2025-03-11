@@ -16,25 +16,25 @@ Daniel Shiffman live code in P5.JS on Youtube link:
 
 ## Genuary 2
 
-![Layers](Layers\layers.png)
+![Layers](Layers/layers.png)
 
 [Layers upon layers upon layers](Layers)
 
 ## Genuary 3
 
-![42 lines of code](sketch_42_lines_of_code\42_lines_of_code.png)
+![42 lines of code](sketch_42_lines_of_code/42_lines_of_code.png)
 
 [Exactly 42 lines of code](sketch_42_lines_of_code)
 
 ## Genuary 4
 
-![Black on black](Black_on_Black\black_on_black.png)
+![Black on black](Black_on_Black/black_on_black.png)
 
 [Black on black](Black_on_Black)
 
 ## Genuary 5
 
-![Isometric Art](isometric_art\isometric.png)
+![Isometric Art](isometric_art/isometric.png)
 
 [Isometric Art - No vanishing points](isometric_art)
 
