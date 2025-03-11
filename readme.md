@@ -38,7 +38,11 @@ Daniel Shiffman live code in P5.JS on Youtube link:
 
 [Isometric Art - No vanishing points](isometric_art)
 
-Genuary 6 - [Make a landscape using only primitive shapes](Primitives_Landscape)
+## Genuary 6
+
+![landscape](Primitives_Landscape/land.png)
+
+[Make a landscape using only primitive shapes](Primitives_Landscape)
 
 Genuary 7 - [Use software that is not intended to create art or images](Non_Art_Software)
 
