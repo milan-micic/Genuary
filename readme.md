@@ -50,7 +50,11 @@ Daniel Shiffman live code in P5.JS on Youtube link:
 
 [Use software that is not intended to create art or images](Non_Art_Software)
 
-Genuary 8 - [Draw one million of something](One_million_Things)
+## Genuary 8
+
+![million_things](One_million_Things/million.png)
+
+[Draw one million of something](One_million_Things)
 
 Genuary 9 - [The textile design patterns of public transport seating](Transport_Textile_Patterns)
 
