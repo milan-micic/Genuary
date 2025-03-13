@@ -62,7 +62,11 @@ Daniel Shiffman live code in P5.JS on Youtube link:
 
 [The textile design patterns of public transport seating](Transport_Textile_Patterns)
 
-Genuary 10 - [You can only use TAU in your code, no other number allowed](TAU_Only)
+## Genuary 10
+
+![TAU only](TAU_Only/tau.png)
+
+[You can only use TAU in your code, no other number allowed](TAU_Only)
 
 Genuary 11 - [Impossible day](Impossible_day)
 
