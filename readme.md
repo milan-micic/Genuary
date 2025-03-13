@@ -56,7 +56,11 @@ Daniel Shiffman live code in P5.JS on Youtube link:
 
 [Draw one million of something](One_million_Things)
 
-Genuary 9 - [The textile design patterns of public transport seating](Transport_Textile_Patterns)
+## Genuary 9
+
+![textile design pattern](Transport_Textile_Patterns/textile.png)
+
+[The textile design patterns of public transport seating](Transport_Textile_Patterns)
 
 Genuary 10 - [You can only use TAU in your code, no other number allowed](TAU_Only)
 
